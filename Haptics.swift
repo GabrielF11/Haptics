@@ -1,10 +1,3 @@
-//
-//  HapticFeedback.swift
-//  Confetti
-//
-//  Created by Gabriel F on 6/25/22.
-//
-
 import Foundation
 import SwiftUI
 
