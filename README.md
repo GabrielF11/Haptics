@@ -2,6 +2,8 @@
 
 A simple haptic feedback generator thingy.
 
+If you need a more advanced one from someone who actually knows what they're doing, then check out https://github.com/efremidze/Haptica
+
 ## Use
 Just download the Swift file and put it into your app.
 
@@ -11,7 +13,7 @@ Just download the Swift file and put it into your app.
 
 3 = heavy
 
-4 = error
+4 = error https://github.com/efremidze/Haptica
 
 5 = success
 
