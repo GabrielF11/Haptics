@@ -1,6 +1,6 @@
 # Haptics
 
-A simple haptic feedback generator thingy.
+A simple haptic feedback generator thingy. (it's literally just a function)
 
 If you need a more advanced one from someone who actually knows what they're doing, then check out https://github.com/efremidze/Haptica
 
