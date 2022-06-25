@@ -13,7 +13,7 @@ Just download the Swift file and put it into your app.
 
 3 = heavy
 
-4 = error https://github.com/efremidze/Haptica
+4 = error
 
 5 = success
 
