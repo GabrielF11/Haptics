@@ -20,4 +20,4 @@ Just download the Swift file and put it into your app.
 6 = warning
 
 Example: 
-'haptics(num: 1)'
+`haptics(num: 1)`
