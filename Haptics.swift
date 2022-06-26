@@ -8,9 +8,9 @@ import SwiftUI
 // 5 = success
 // 6 = warning
 
-// Example: Haptic(num: 1)
+// Example: haptics(num: 1)
 
-func Haptic(num: Int) {
+func haptics(num: Int) {
     if num == 1 {
         let feedbackGenerator = UIImpactFeedbackGenerator(style: .light)
         feedbackGenerator.impactOccurred()
